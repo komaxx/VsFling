@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="Theme.NoBackground" parent="android:Theme.Translucent">
+        <item name="android:windowBackground">@null</item>
+    </style>
+    
+</resources>

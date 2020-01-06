@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="play_ouch_translate_x">120dip</dimen>
+    <dimen name="train_ouch_translate_x">550dip</dimen>
+    
+</resources>
